@@ -1,4 +1,4 @@
-# RESTful service to parse prescription using AWS Comprehend Medical
+# Example of AWS Comprehend Medical Java
 
 ## Configure AWS credentials
 
